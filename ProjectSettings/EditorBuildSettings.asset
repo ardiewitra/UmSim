@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fix/Menu Utama.unity
+    guid: 956498d95e6704c44816bcacce949496
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage1 Ihram.unity
+    guid: 42da13623e4c22247be602480526c76d
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage2 Miqat.unity
+    guid: ea62015f1fd89914495d71f8ffe61256
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage2 Miqat VROn.unity
+    guid: f7dbc2df0f03c264ba793596ac74d8aa
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage3 Thawaf.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage3 Thawaf VROn.unity
+    guid: 1bce3402448c1ce48b2a8d3841465dbc
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage3 Thawaf P2 VROn.unity
+    guid: e5cd1014bec825a40a178533b575985c
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage4 Sai.unity
+    guid: 8e65f01e3d5ac74429b1e99a85ebf900
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage4 Sai VROn.unity
+    guid: f82e09217ea2c104986457b101b1d598
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage5 Tahallul.unity
+    guid: c7d52ce4c1123dd41934c8cad359312f
+  - enabled: 1
+    path: Assets/Scenes/Fix/Stage5 Tahallul VROn.unity
+    guid: 8489a8e61b0c756489bfcba544eb96ba
+  m_configObjects: {}
