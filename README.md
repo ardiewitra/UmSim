@@ -39,9 +39,8 @@ UmSim is a mobile application designed to address the challenges faced by Umrah 
 ## Contact
 
 Please contact us for questions or discussion.
-* Email: artiacode@gmail.com
+* Email: ardiewitra@gmail.com
 * LinkedIn: https://www.linkedin.com/in/mardiwp
-* Medium: https://medium.com/@artiacode
-* Instagram: https://www.instagram.com/artiacode
-* Twitter: https://twitter.com/ArtiaCode
-* GitHub: https://github.com/ArtiaCode
+* Instagram: https://www.instagram.com/ardiewitra
+* Twitter: https://twitter.com/ardiewitra
+* GitHub: https://github.com/ardiewitra
